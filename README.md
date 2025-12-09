@@ -77,12 +77,5 @@ This project is open-source under the MIT License.
 Built with ♥ by @txnishq28
 
 
----
 
-### ✅ To complete:
-
-
-echo "<paste-content-here>" > README.md
-git add README.md
-git commit -m "Add project README"
 git push origin main
